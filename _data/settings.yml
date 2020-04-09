@@ -38,8 +38,8 @@ hero:
   hero-title: Web and <br> Coding Club <br> <font color = '#ffa500'>IIT Bombay</font> 
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/wncc.iitb"}
+- {icon: "ti-instagram", link: "http://instagram.com/wncc.iitb"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 
